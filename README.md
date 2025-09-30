@@ -1,4 +1,4 @@
-# unitTestingWithJunit
+# unit-testing-with-junit
 Simple Calculator with JUnit Tests
 📌 Project Overview
 
